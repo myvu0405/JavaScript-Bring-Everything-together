@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding:0;
+}
+body{
+    width: 100%;
+    margin: auto;
+}
+header{
+    height: 150px;
+    
+    text-align: center;
+}
+header>h4{
+    padding-top: 30px;
+    /* border: 2px red solid; */
+}
